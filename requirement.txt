@@ -1,0 +1,9 @@
+streamlit==1.81
+nltk==3.4
+pandas==1.2.3
+numpy==1.20.2
+textblob==0.71.1
+vaderSentiment==3.3.2
+plotly-express==0.4.1
+pysolr==3.9.0
+Jinja2==2.11.3

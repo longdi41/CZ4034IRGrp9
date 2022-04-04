@@ -1,4 +1,4 @@
-### CZ4034IRGrp9
+# CZ4034IRGrp9
 CZ4034 Information Retrieval Group Project
 
 ## Role Allocation
@@ -13,7 +13,7 @@ Classification --> ML (JX, JL)
 - Streamlit
 
 ## Setup & Implementation
-# PySolr Environment
+### PySolr Environment
 To start the environment, enter the following command:
 ```
 cd solr
@@ -25,7 +25,7 @@ Open any web browser (Eg. Chrome, Edge) and type the following url:
 localhost:8983
 ```
 
-# Start the Web Application
+### Start the Web Application
 To access the streamlit web application, enter the following command:
 ```
 cd

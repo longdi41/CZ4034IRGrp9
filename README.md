@@ -1,33 +1,31 @@
-# CZ4034IRGrp9
-CZ4034 Information Retrieval Group Project
-
-## Role Allocation
-Pre-processing
-
-Crawling and Indexing --> NLP (JR, MD)
-
-Classification --> ML (JX, JL)
+# CZ4034 Information Retrieval Project
+Group 9 (Jun Rui, Ming Da, Jun Xiang, Jun Long)
 
 ## Tools Required
+- Anaconda
 - PySolr
 - Streamlit
 
 ## Setup & Implementation
 ### PySolr Environment
-To start the environment, enter the following command:
+1. To start running the PySolr Environment, enter the following command in Powershell:
 ```
 cd solr
 solr/bin start
 ```
 
-Open any web browser (Eg. Chrome, Edge) and type the following url:
+2. Open any web browser (Eg. Chrome, Edge) and type the following url:
 ```
 localhost:8983
 ```
 
-### Start the Web Application
-To access the streamlit web application, enter the following command:
+### Web Application
+1. Install the requirement packages in order to run this application.
 ```
-cd
+pip install -r requirements.txt
+```
+
+2. To access the streamlit web application, enter the following command:
+```
 streamlit run app.py
 ```

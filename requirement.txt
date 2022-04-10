@@ -1,10 +1,10 @@
 streamlit==1.81
-pandas==1.2.3
+pandas==1.3.5
 numpy==1.20.2
 nltk==3.4
 scikit-image==0.14.1
 scikit-learn==0.24.1
-textblob==0.71.1
+textblob==0.17.1
 pickleshare==0.7.5
 vaderSentiment==3.3.2
 plotly-express==0.4.1
@@ -13,3 +13,6 @@ Jinja2==2.11.3
 neattext==0.1.3
 seaborn==0.11.2
 matplotlib==3.4.1
+requests==2.21.0
+wordcloud==1.8.1
+tqdm==4.62.3
